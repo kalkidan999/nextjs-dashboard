@@ -17,7 +17,10 @@
 
 # misc
 .DS_Store
+<<<<<<< HEAD
 *.pem
+=======
+>>>>>>> b7d0f9b (Initial commit from Create Next App)
 
 # debug
 npm-debug.log*
@@ -25,6 +28,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
 .env*.local
 .env
 
@@ -34,3 +38,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+>>>>>>> b7d0f9b (Initial commit from Create Next App)
