@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.0.13",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
