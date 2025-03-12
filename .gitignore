@@ -17,6 +17,13 @@
 
 # misc
 .DS_Store
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+*.pem
+=======
+>>>>>>> b7d0f9b (Initial commit from Create Next App)
+>>>>>>> pageRouter
 
 # debug
 npm-debug.log*
@@ -24,7 +31,25 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+=======
+>>>>>>> pageRouter
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+<<<<<<< HEAD
+=======
+>>>>>>> b7d0f9b (Initial commit from Create Next App)
+>>>>>>> pageRouter
